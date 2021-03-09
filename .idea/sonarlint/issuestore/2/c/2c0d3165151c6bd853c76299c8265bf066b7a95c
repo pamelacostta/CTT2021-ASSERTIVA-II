@@ -1,0 +1,15 @@
+
+@
+java:S1659"#Declare "jogos" on a separate line.(˜úš‰8ì–Ç´€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«°Òİùÿÿÿÿ8ıŒ´€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«æõóùÿÿÿÿ8ıŒ´€/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëçú8ıŒ´€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª¹Ûµÿÿÿÿÿ8ıŒ´€/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë €àúÿÿÿÿ8ıŒ´€/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(µ„ò8ıŒ´€/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ä§à“8ıŒ´€/
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8µñ¯»€/
+D
+java:S1659"'Declare "numgerado" on a separate line.(˜úš‰8ì–Ç´€/

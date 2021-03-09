@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôñ ßûÿÿÿÿ8ÑÐŠ¼€/
+W	java:S125"<This block of commented-out lines of code should be removed.(¼Þ¬28‘Žˆ¼€/
+[
+java:S1128">Remove this unused import 'java.util.zip.DataFormatException'.(öÄë½8•Ô£¼€/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(å·ŠÒøÿÿÿÿ8˜Óô²€/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(«˜éÇÿÿÿÿÿ8ùåˆ³€/
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8•Ô£¼€/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(šÃÓˆúÿÿÿÿ8ùåˆ³€/
