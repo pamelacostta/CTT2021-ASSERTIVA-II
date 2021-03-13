@@ -5,7 +5,7 @@
 talvez tenha faltado alguma coisa mas é só olhar na pasta caso tiver alguma dúvida ou precisar de algum exercicio. </p>
 
 
-### Listas não ordenadas
+### Listas do Repositório
 - Continuação
     - Exception
     - Jogo da mega sena
